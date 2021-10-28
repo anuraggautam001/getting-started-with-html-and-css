@@ -1,0 +1,52 @@
+.fb{
+    text-align: center;
+    color:steelblue;
+    font-size: 30px;
+    font-family: Helvetica, Arial, sans-serif;
+}
+.signup{
+    text-align: center;
+    background: white;
+    width: 400px;
+    margin-left: 470px;
+    
+    z-index: 100;
+    border-radius: 20px;
+    box-shadow: grey;
+}
+.detDesign1{
+    width: 170px;
+    height: 30px;
+    margin-bottom: 8px;
+    border-radius: 6px;
+    outline: none;
+    
+}
+.detDesign2{
+    width: 350px;
+    height: 30px;
+    margin-bottom: 8px;
+    border-radius: 6px;
+}
+.sign{
+    width:170px;
+    height: 30px;
+    background:rgb(29, 209, 29);
+    margin bottom: 8px;
+    border-radius: 10px;
+
+}
+.gender{
+    display: table-cell;
+    border: 1px;
+    width: 100px;
+    height: 30px;
+    margin-bottom: 8px;
+    border-radius: 6px;
+
+}
+.row{
+    display: table-row;
+    border: 1px black;
+
+}

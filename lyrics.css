@@ -1,0 +1,27 @@
+h4{
+    margin: 20px;
+}
+.song{
+    margin: auto;
+    padding: 200;
+    
+    width: 300px;
+    background-color: rgba(205, 153, 229, 0.342);
+}
+
+.heading{
+    margin: 20px;
+}
+
+.lyrics{
+    margin: 20px;
+    
+}
+
+body{
+    background-color: cornflowerblue;
+}
+
+#main{
+    text-align: center;
+}

@@ -1,0 +1,22 @@
+body{
+    background-image: url(bk1.jpg);
+}
+
+.name{
+    text-align: center;
+    text-shadow: black;
+    margin-top: 50px;
+
+}
+.welcome{
+    text-align: center;
+    text-shadow: black;
+    margin-top: 50px;
+    background-color:burlywood;
+    width: 300px;
+    
+    left: 524px;
+    position: relative;    
+
+
+}

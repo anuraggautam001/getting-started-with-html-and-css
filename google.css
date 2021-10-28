@@ -1,0 +1,29 @@
+.pic{
+    text-align: center;
+    margin: 120px;
+ 
+}
+
+
+
+  
+
+.box{
+    border: 1px soild #000;
+    outline: none;
+  height: 40px;
+  width: 370px;
+  background: #fff;
+  color: #fff;
+  font-size: 18px;
+  border-radius: 20px;
+}
+.header{
+    text-align: end;
+}
+.foot{
+    text-align: right;
+    margin-top: 200px;
+    
+}
+

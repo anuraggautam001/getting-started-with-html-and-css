@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Playing with Images</title>
+</head>
+<body>
+    <h3>Simple putting img in img tag</h3>
+    <img src="bk1.jpg" alt="Bk" width="300" height="300">
+
+    <h2>Responsive Images....</h2> 
+    <p>In this, img which suits best to the system's display and internet connection will get displayed</p>
+    <img src="bk1.jpg" alt="bk" width="300" height="300"
+      srcset="bk1 - Copy.jpg 2x,
+              bk1 - Copy (2).jpg 3x,
+              bk1 - Copy (3).jpg 4x"
+
+    >
+
+    <h2>Responsive Width....</h2>
+    <img src="bk1.jpg" alt="bk" width="300" height="300"
+         srcset="bk1.jpg 480w,
+                 bk1 - Copy.jpg 960w,
+                 bk1 - Copy (2).jpg 1440w,
+                 bk1 - Copy (3).jpg 1920w"
+         sizes="(max-width:480px) 240px
+                (max-width:960px) 480px
+                (max-width:1440px) 960px
+                1920px"        
+    >
+    <figure>
+        <img src="bk1.jpg" alt="bk1" width="300" height="300">
+        <figcaption>This is the caption which is written using figcaption element</figcaption>
+    </figure>
+    
+
+</body>
+</html>

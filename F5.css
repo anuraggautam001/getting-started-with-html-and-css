@@ -1,0 +1,35 @@
+h1{
+    background-color: #ff0000;
+    color: darkred;
+    font-size: 50px;
+}
+
+
+.H2{
+    background-color: #00ff00;
+    color: darkred;
+    font-size: 40px;
+}
+
+#H3{
+    background-color: #0000ff;
+    color: darkred;
+    font-size: 30px;
+}
+
+*{
+    background-color: aquamarine;
+    font-size: 30px;
+}
+
+section h5{
+    background-color: #00ff00;
+    font-size: 20px;
+    color: darkslategrey;
+}
+
+h6, .PP{
+    background-color: #0000ff;
+    font-size: 10px;
+    color: black;
+}

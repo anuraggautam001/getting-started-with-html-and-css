@@ -1,0 +1,30 @@
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    
+
+}
+li{
+    color: grey;
+    float: left;
+    padding: 8px;
+    display:block;
+    background-color: black;
+}
+li:hover{
+    background-color: red;
+}
+div{
+    background-color: red;
+    width: 100px;
+    height: 70px;
+    display: inline-block;
+}
+       
+span{
+    background-color: aquamarine;
+    width: 50px;
+    height: 70px;
+    display: inline-block;
+}

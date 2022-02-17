@@ -1,0 +1,182 @@
+body{
+    background-image: linear-gradient(to right, lightgrey, yellow);
+
+}
+h2{
+    font-size: 100px;
+    text-align: center;
+    background-color: crimson;
+    font-family: 'Times New Roman', Times, serif;
+}
+.flex-container{
+    display: flex;
+    background-color: aqua;
+    
+}
+
+.flex-items{
+    padding: 0px;
+    background-color: blue;
+    margin: 10px;
+    
+}
+.flex-container2{
+    display: inline-flex;
+    background-color: aqua;
+}
+
+.flex-items2{
+    padding: 0px;
+    background-color: blue;
+    margin: 10px;
+    
+}
+.flex-container3{
+    display: inline-flex;
+    background-color: aqua;
+    flex-direction: column;
+    
+}
+
+.flex-items3{
+    padding: 0px;
+    background-color: blue;
+    margin: 10px;
+    
+}
+.flex-container4{
+    display: inline-flex;
+    background-color: aqua;
+    flex-direction: row;
+}
+
+.flex-items4{
+    padding: 0px;
+    background-color: blue;
+    margin: 10px;
+    
+}
+.flex-container5{
+    display: inline-flex;
+    background-color: aqua;
+    flex-direction: column-reverse;
+}
+
+.flex-items5{
+    padding: 0px;
+    background-color: blue;
+    margin: 10px;
+    
+}
+.flex-container6{
+    display: inline-flex;
+    background-color: aqua;
+    flex-direction: row-reverse;
+}
+
+.flex-items6{
+    padding: 0px;
+    background-color: blue;
+    margin: 10px;
+    
+}
+.flex-container7{
+    display: inline-flex;
+    background-color: aqua;
+    flex-wrap: nowrap;
+    
+}
+
+.flex-items7{
+    padding-right: 20px;
+    padding-left: 20px;
+    background-color: blue;
+    margin: 10px;
+    
+}
+.flex-container8{
+    display: inline-flex;
+    background-color: aqua;
+    flex-wrap: wrap;
+    
+}
+
+.flex-items8{
+    padding-right: 20px;
+    padding-left: 20px;
+    background-color: blue;
+    margin: 10px;
+    
+}
+.flex-container9{
+    display: inline-flex;
+    background-color: aqua;
+    flex-wrap: wrap-reverse;
+    
+}
+
+.flex-items9{
+    padding-right: 20px;
+    padding-left: 20px;
+    background-color: blue;
+    margin: 10px;
+    
+}
+.flex-container10{
+    display: flex;
+    background-color: aqua;
+    justify-content: center;
+    
+}
+
+.flex-items10{
+    padding-right: 20px;
+    padding-left: 20px;
+    background-color: blue;
+    margin: 10px;
+    
+}
+.flex-container11{
+    display: flex;
+    background-color: aqua;
+    justify-content: space-between;
+    
+}
+
+.flex-items11{
+    padding-right: 20px;
+    padding-left: 20px;
+    background-color: blue;
+    margin: 10px;
+    
+}
+.flex-container12{
+    display: flex;
+    background-color: aqua;
+    justify-content: space-around;
+    
+}
+
+.flex-items12{
+    padding-right: 20px;
+    padding-left: 20px;
+    background-color: blue;
+    margin: 10px;
+    
+}
+.flex-container13{
+    display: flex;
+    background-color: aqua;
+    justify-content: space-evenly;
+    
+}
+
+.flex-items13{
+    padding-right: 20px;
+    padding-left: 20px;
+    background-color: blue;
+    margin: 10px;
+    
+}
+
+
